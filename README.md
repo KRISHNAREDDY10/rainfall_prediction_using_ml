@@ -42,12 +42,10 @@ pip install -r requirements.txt
 ```
 Rainfall Prediction/
 │
-├── rainfall_prediction.py
 ├── rainfall_prediction.ipynb
 ├── weatherAUS.csv
 ├── requirements.txt
 ├── README.md
-├── *.png   (generated plots)
 └── .venv/
 ```
 
